@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: 'Blair W. Perry, PhD'
-    subtitle: Optional hero section subtitle
+    subtitle: Functional and Evolutionary Genomics
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
