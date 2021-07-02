@@ -24,7 +24,7 @@ sections:
     media_position: left
     media_width: fifty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     background_color: primary
   - type: grid_section
