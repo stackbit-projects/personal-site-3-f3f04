@@ -21,7 +21,7 @@ sections:
         style: secondary
     image: /images/gordon-norman.png
     image_alt: Hero section placeholder image
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: small
