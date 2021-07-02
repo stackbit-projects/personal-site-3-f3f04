@@ -25,7 +25,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
   - type: grid_section
     template: grid_section
